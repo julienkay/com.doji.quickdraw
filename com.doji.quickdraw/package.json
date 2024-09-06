@@ -1,0 +1,14 @@
+{
+  "name": "com.doji.quickdraw",
+  "version": "1.0.0",
+  "displayName": "Quickdraw",
+  "description": "Recognize doodling with Unity Sentis",
+  "dependencies": {
+    "com.unity.sentis": "2.0.0"
+  },
+  "author": {
+    "name": "Doji Technologies",
+    "email": "support@doji-tech.com",
+    "url": "https://www.doji-tech.com/"
+  }
+}
