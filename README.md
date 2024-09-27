@@ -15,4 +15,4 @@ A test project to run a [quickdraw](https://huggingface.co/jerilseb/quickdraw-sm
 
 [Feedback/Questions]
 
-[Feedback/Questions]: https://discussions.unity.com/t/quickdraw-in-sentis/1515621/2
+[Feedback/Questions]: https://discussions.unity.com/t/quickdraw-in-sentis/1515621/2?u=julienkay
